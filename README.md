@@ -1,3 +1,6 @@
+Obs.: caso o app esteja no modo "sleeping" (dormindo) ao entrar, basta clicar no botão que estará disponível e aguardar, para ativar o mesmo. 
+<img width="797" height="660" alt="Screenshot 2025-09-20 at 11-45-46 Pesquisa App! - por Ary Ribeiro · Streamlit" src="https://github.com/user-attachments/assets/03df525c-e621-48b3-a7f7-3f480862ed12" />
+
 # Pesquisa App!
 
 Web app de pesquisa e feedback, com anonimato garantido. Desenvolvido em Python e Streamlit, pronto para deploy no Streamlit Cloud.
@@ -210,5 +213,6 @@ Para problemas ou dúvidas:
 aryribeiro@gmail.com
 
 ---
+
 
 **Desenvolvido com ❤️ usando Python e Streamlit**
